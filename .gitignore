@@ -71,3 +71,7 @@ USER.md
 
 # local tooling
 .serena/
+.claude/
+
+# npm lockfile (project uses pnpm)
+package-lock.json
